@@ -8,6 +8,7 @@ Leetcode上可以用递归解决的问题
 * [Same Tree] (https://oj.leetcode.com/problems/same-tree/)
 * [Minimum Depth of Binary Tree] (https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)
 * [Path Sum] (https://oj.leetcode.com/problems/path-sum/)
+* [Path Sum II] (https://oj.leetcode.com/problems/path-sum-ii/)
 
 ### 动态规划
 * [Minimum Path Sum] (https://oj.leetcode.com/problems/minimum-path-sum/)
