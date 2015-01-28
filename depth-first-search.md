@@ -1,0 +1,21 @@
+Leetcode上可以用深度优先搜索解决的问题
+
+* [Binary Tree Preorder Traversal] (https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)
+* [Path Sum] (https://oj.leetcode.com/problems/path-sum/)
+* [Path Sum II] (https://oj.leetcode.com/problems/path-sum-ii/)
+* [Sum Root to Leaf Numbers] (https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)
+* [Maximum Depth of Binary Tree] (https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)
+* [Minimum Depth of Binary Tree] (https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)
+* [Clone Graph] (https://oj.leetcode.com/problems/clone-graph/)
+* [N-Queens] (https://oj.leetcode.com/problems/n-queens/)
+* [N-Queens II] (https://oj.leetcode.com/problems/n-queens-ii/)
+* [Permutations] (https://oj.leetcode.com/problems/permutations/)
+* [Permutations II] (https://oj.leetcode.com/problems/permutations-ii/)
+* [Permutation Sequence] (https://oj.leetcode.com/problems/permutation-sequence/)
+* [Combinations] (https://oj.leetcode.com/problems/combinations/)
+* [Combination Sum] (https://oj.leetcode.com/problems/combination-sum/)
+* [Combination Sum II] (https://oj.leetcode.com/problems/combination-sum-ii/)
+* [Letter Combinations of a Phone Number] (https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)
+* [Subsets] (https://oj.leetcode.com/problems/subsets/)
+* [Subsets II] (https://oj.leetcode.com/problems/subsets-ii/)
+
