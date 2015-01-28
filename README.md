@@ -3,6 +3,6 @@
 ### [简单题] (https://github.com/algorithm-study/leetcode/blob/master/easy.md)
 ### [递归] (https://github.com/algorithm-study/leetcode/blob/master/recursion.md)
 ### [分治 (Divide and Conquer)] (https://github.com/algorithm-study/leetcode/blob/master/divide-and-conquer.md)
-### [深度优先搜索 (Depth-First Search)]
+### [深度优先搜索 (Depth-First Search)] (https://github.com/algorithm-study/leetcode/blob/master/depth-first-search.md)
 ### [广度优先搜索 (Breadth-First Search)]
 ### [动态规划 (Dynamic Programming)]
