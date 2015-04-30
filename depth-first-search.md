@@ -1,5 +1,6 @@
 Leetcode上可以用深度优先搜索解决的问题
 
+* [Number of Island] (https://leetcode.com/problems/number-of-islands/)
 * [Binary Tree Preorder Traversal] (https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)
 * [Path Sum] (https://oj.leetcode.com/problems/path-sum/)
 * [Path Sum II] (https://oj.leetcode.com/problems/path-sum-ii/)
